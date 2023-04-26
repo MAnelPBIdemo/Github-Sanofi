@@ -2,16 +2,16 @@
     "version": "0.13",
     "deployments": {
       "Demo": {
-        "mode": "Dataset",
+        "mode": "Report",
         "source": {
           "type": "File",
-          "path": "./Model.bim"
+          "path": "./Import  Adventure Works.pbix"
         },
         "authentication": {
           "type": "ServicePrincipal",
           "tenantID":"8cc5ffdf-b1ef-4c56-a1b2-908c59b953d0",
           "clientId":"f56d9e8a-5ae9-4a06-9a89-007c543162d6",
-          "clientSecret":"LKi8Q~gQZKYeiEVbyZ4KE15AByLcCtNgdJilSbVe"
+          "clientSecret":"%PBI_CLIENT_SECRET%"
         },
         "options": {
           "refresh": {
@@ -45,7 +45,7 @@
             }
           },
           "dataset": {
-            "deployEmbeddedReport": false
+            "deployEmbeddedReport": true
           }
         },
         "parameters": {
