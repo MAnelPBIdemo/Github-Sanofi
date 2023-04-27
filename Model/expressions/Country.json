@@ -1,0 +1,16 @@
+{
+  "name": "Country",
+  "kind": "m",
+  "expression": "\"France\" meta [IsParameterQuery=true, Type=\"Any\", IsParameterQueryRequired=true]",
+  "lineageTag": "568c8e01-59e6-42ee-8be5-7afb9d1d5bcc",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Text"
+    }
+  ]
+}
