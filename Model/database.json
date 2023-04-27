@@ -12,7 +12,7 @@
     "annotations": [
       {
         "name": "PBI_QueryOrder",
-        "value": "[\"FactInternetSales\",\"Customer\",\"Date\",\"DimProduct\",\"SalesTerritory\",\"FactInternetSalesReason\"]"
+        "value": "[\"FactInternetSales\",\"DimCurrency\",\"DimCustomer\",\"Date\",\"DimProduct\",\"SalesTerritory\",\"FactInternetSalesReason\"]"
       },
       {
         "name": "__PBI_TimeIntelligenceEnabled",

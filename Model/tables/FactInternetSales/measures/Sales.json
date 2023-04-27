@@ -1,6 +1,7 @@
 {
   "name": "Sales",
 
+
   "expression": "SUMX( FactInternetSales, FactInternetSales[OrderQuantity] * FactInternetSales[UnitPrice])",
 
   "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
