@@ -1,6 +1,11 @@
 {
-  "name": "DimCustomer",
+  "name": "Customer",
   "lineageTag": "d5c8de10-618a-4bca-9b80-382be70dc67f",
+  "changedProperties": [
+    {
+      "property": "Name"
+    }
+  ],
   "annotations": [
     {
       "name": "PBI_ResultType",
