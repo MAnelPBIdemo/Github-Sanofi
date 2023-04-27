@@ -2,10 +2,10 @@
     "version": "0.13",
     "deployments": {
       "Demo": {
-        "mode": "Report",
+        "mode": "Dataset",
         "source": {
-          "type": "File",
-          "path": "./Import  Adventure Works.pbix"
+          "type": "Folder",
+          "path": "./Model"
         },
         "authentication": {
           "type": "ServicePrincipal",
@@ -45,12 +45,12 @@
             }
           },
           "dataset": {
-            "deployEmbeddedReport": true
+            "deployEmbeddedReport": false
           }
         },
         "parameters": {
           "[Version]": "1.1.0",
-          "Dataset_Name":"PBIX Sanofi",
+          "Dataset_Name":"PBIX Sanofi with TE Folder",
           "Workspace":"Datasets",
           "[Environment]": "{{ENVIRONMENT}}",
           "[PBITOOLS_VERSION]": "{{PBITOOLS_VERSION}}"

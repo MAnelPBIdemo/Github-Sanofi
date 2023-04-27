@@ -1,0 +1,15 @@
+{
+  "name": "DimCurrency-cf532785-42a6-4b07-a9cb-be93be05e9df",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Databases(\"localhost\"),",
+      "    AdventureWorksDW2016_EXT = Source{[Name=\"AdventureWorksDW2016_EXT\"]}[Data],",
+      "    dbo_DimCurrency = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"DimCurrency\"]}[Data]",
+      "in",
+      "    dbo_DimCurrency"
+    ]
+  }
+}

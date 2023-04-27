@@ -1,0 +1,16 @@
+{
+  "name": "DimSalesTerritory-ace884a2-8e6d-4c58-b39d-68e588a568c8",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Databases(\"localhost\"),",
+      "    AdventureWorksDW2016_EXT = Source{[Name=\"AdventureWorksDW2016_EXT\"]}[Data],",
+      "    dbo_DimSalesTerritory = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"DimSalesTerritory\"]}[Data],",
+      "    #\"Removed Columns\" = Table.RemoveColumns(dbo_DimSalesTerritory,{\"SalesTerritoryImage\"})",
+      "in",
+      "    #\"Removed Columns\""
+    ]
+  }
+}

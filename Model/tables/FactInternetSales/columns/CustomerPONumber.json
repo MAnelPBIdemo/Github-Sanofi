@@ -1,0 +1,13 @@
+{
+  "name": "CustomerPONumber",
+  "dataType": "string",
+  "sourceColumn": "CustomerPONumber",
+  "lineageTag": "fa194ecb-bee5-4c9f-9173-1bdf300ea438",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

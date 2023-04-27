@@ -1,0 +1,14 @@
+{
+  "name": "CalendarQuarter",
+  "dataType": "int64",
+  "sourceColumn": "CalendarQuarter",
+  "formatString": "0",
+  "lineageTag": "925df013-9825-42db-aa28-ba079c570321",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SpanishDayNameOfWeek",
+  "dataType": "string",
+  "sourceColumn": "SpanishDayNameOfWeek",
+  "lineageTag": "ba92bd52-d363-4ba0-aa65-c20ab4c5060c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

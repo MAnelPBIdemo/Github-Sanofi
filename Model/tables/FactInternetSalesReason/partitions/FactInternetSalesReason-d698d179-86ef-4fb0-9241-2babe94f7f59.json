@@ -1,0 +1,15 @@
+{
+  "name": "FactInternetSalesReason-d698d179-86ef-4fb0-9241-2babe94f7f59",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Databases(\"localhost\"),",
+      "    AdventureWorksDW2016_EXT = Source{[Name=\"AdventureWorksDW2016_EXT\"]}[Data],",
+      "    dbo_FactInternetSalesReason = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"FactInternetSalesReason\"]}[Data]",
+      "in",
+      "    dbo_FactInternetSalesReason"
+    ]
+  }
+}

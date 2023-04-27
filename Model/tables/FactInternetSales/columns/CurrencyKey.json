@@ -1,0 +1,14 @@
+{
+  "name": "CurrencyKey",
+  "dataType": "int64",
+  "sourceColumn": "CurrencyKey",
+  "formatString": "0",
+  "lineageTag": "bc6387b1-ff11-4f5b-bee9-5d9577ac4c6f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

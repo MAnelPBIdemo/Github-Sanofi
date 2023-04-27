@@ -1,0 +1,18 @@
+{
+  "name": "StandardCost",
+  "dataType": "decimal",
+  "sourceColumn": "StandardCost",
+  "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
+  "lineageTag": "efcf8b70-aa37-4c27-96ab-722a881ee97b",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"currencyCulture\":\"en-US\"}"
+    }
+  ]
+}

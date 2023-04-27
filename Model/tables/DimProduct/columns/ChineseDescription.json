@@ -1,0 +1,13 @@
+{
+  "name": "ChineseDescription",
+  "dataType": "string",
+  "sourceColumn": "ChineseDescription",
+  "lineageTag": "e3b3d0f5-6f62-4442-9fe4-4c44c7af99c5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

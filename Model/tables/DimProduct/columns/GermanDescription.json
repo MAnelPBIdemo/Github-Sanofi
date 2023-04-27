@@ -1,0 +1,13 @@
+{
+  "name": "GermanDescription",
+  "dataType": "string",
+  "sourceColumn": "GermanDescription",
+  "lineageTag": "161b4355-7c11-4e11-9cce-d9499a22a17b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

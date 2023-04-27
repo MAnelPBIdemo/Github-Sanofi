@@ -1,0 +1,13 @@
+{
+  "name": "MaritalStatus",
+  "dataType": "string",
+  "sourceColumn": "MaritalStatus",
+  "lineageTag": "ac078c13-69b8-4ad0-9b36-e25bc8c40bd4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

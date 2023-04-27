@@ -1,0 +1,13 @@
+{
+  "name": "SpanishProductName",
+  "dataType": "string",
+  "sourceColumn": "SpanishProductName",
+  "lineageTag": "985499fc-314a-4d70-86bf-de2e4996f555",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

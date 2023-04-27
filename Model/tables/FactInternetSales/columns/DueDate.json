@@ -1,0 +1,14 @@
+{
+  "name": "DueDate",
+  "dataType": "dateTime",
+  "sourceColumn": "DueDate",
+  "formatString": "General Date",
+  "lineageTag": "fb02e0d0-1a89-446e-bc3d-b58642fc3303",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

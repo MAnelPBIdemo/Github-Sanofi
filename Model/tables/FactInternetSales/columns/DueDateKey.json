@@ -1,0 +1,14 @@
+{
+  "name": "DueDateKey",
+  "dataType": "int64",
+  "sourceColumn": "DueDateKey",
+  "formatString": "0",
+  "lineageTag": "71cafbbb-d73d-40df-b98d-c4ba19efae55",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

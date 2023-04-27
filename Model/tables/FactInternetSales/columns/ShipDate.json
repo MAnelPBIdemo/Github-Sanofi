@@ -1,0 +1,14 @@
+{
+  "name": "ShipDate",
+  "dataType": "dateTime",
+  "sourceColumn": "ShipDate",
+  "formatString": "General Date",
+  "lineageTag": "66e32f3b-5e07-47bc-8771-3fa469f7b159",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

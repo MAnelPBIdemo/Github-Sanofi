@@ -1,0 +1,13 @@
+{
+  "name": "JapaneseDescription",
+  "dataType": "string",
+  "sourceColumn": "JapaneseDescription",
+  "lineageTag": "d8a1b042-3d95-40e1-bbea-7695ac028dbb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

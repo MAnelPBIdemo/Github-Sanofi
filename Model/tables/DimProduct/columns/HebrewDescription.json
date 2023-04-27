@@ -1,0 +1,13 @@
+{
+  "name": "HebrewDescription",
+  "dataType": "string",
+  "sourceColumn": "HebrewDescription",
+  "lineageTag": "50880a3a-21c2-4a22-b720-07200a6c0bb1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

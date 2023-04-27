@@ -1,0 +1,13 @@
+{
+  "name": "EnglishDayNameOfWeek",
+  "dataType": "string",
+  "sourceColumn": "EnglishDayNameOfWeek",
+  "lineageTag": "3086bfc6-c611-4646-9143-de9ba1424514",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ThaiDescription",
+  "dataType": "string",
+  "sourceColumn": "ThaiDescription",
+  "lineageTag": "d40927f7-7e4c-4f40-88cb-636eafbf57b0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

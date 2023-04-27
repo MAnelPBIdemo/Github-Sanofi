@@ -1,0 +1,16 @@
+{
+  "name": "DimProduct-31a470f7-6ea6-47a7-be8e-e3f20b17c277",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Databases(\"localhost\"),",
+      "    AdventureWorksDW2016_EXT = Source{[Name=\"AdventureWorksDW2016_EXT\"]}[Data],",
+      "    dbo_DimProduct = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"DimProduct\"]}[Data],",
+      "    #\"Removed Columns\" = Table.RemoveColumns(dbo_DimProduct,{\"ProductSubcategoryKey\"})",
+      "in",
+      "    #\"Removed Columns\""
+    ]
+  }
+}

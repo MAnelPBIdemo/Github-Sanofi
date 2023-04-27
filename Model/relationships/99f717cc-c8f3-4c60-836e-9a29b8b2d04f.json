@@ -1,0 +1,13 @@
+{
+  "name": "99f717cc-c8f3-4c60-836e-9a29b8b2d04f",
+  "fromTable": "FactInternetSales",
+  "fromColumn": "SalesTerritoryKey",
+  "toTable": "DimSalesTerritory",
+  "toColumn": "SalesTerritoryKey",
+  "annotations": [
+    {
+      "name": "PBI_IsFromSource",
+      "value": "FS"
+    }
+  ]
+}

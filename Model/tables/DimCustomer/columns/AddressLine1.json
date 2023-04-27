@@ -1,0 +1,13 @@
+{
+  "name": "AddressLine1",
+  "dataType": "string",
+  "sourceColumn": "AddressLine1",
+  "lineageTag": "334f865b-00ca-4c61-9e30-4a28915d9d9f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

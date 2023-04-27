@@ -1,0 +1,13 @@
+{
+  "name": "FrenchMonthName",
+  "dataType": "string",
+  "sourceColumn": "FrenchMonthName",
+  "lineageTag": "1bf2dcc3-3591-4f8c-b5de-cc335a5cbfc9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

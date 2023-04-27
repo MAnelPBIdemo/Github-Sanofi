@@ -1,0 +1,13 @@
+{
+  "name": "TurkishDescription",
+  "dataType": "string",
+  "sourceColumn": "TurkishDescription",
+  "lineageTag": "7b87fe93-3e59-4a05-b3a6-8a91290fd1f1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

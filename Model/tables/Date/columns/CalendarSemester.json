@@ -1,0 +1,14 @@
+{
+  "name": "CalendarSemester",
+  "dataType": "int64",
+  "sourceColumn": "CalendarSemester",
+  "formatString": "0",
+  "lineageTag": "3d30009b-b5a7-40d0-84c8-bf9570888b5d",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

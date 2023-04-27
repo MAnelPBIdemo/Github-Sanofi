@@ -1,0 +1,14 @@
+{
+  "name": "CalendarYear",
+  "dataType": "int64",
+  "sourceColumn": "CalendarYear",
+  "formatString": "0",
+  "lineageTag": "6dca5404-6695-44f1-83f8-31733139f1ab",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

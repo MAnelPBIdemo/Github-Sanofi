@@ -1,0 +1,13 @@
+{
+  "name": "CurrencyName",
+  "dataType": "string",
+  "sourceColumn": "CurrencyName",
+  "lineageTag": "77a4e9b5-7123-4350-a12c-3ad184c95060",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

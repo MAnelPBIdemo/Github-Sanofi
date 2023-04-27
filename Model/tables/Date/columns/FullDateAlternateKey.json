@@ -1,0 +1,19 @@
+{
+  "name": "FullDateAlternateKey",
+  "dataType": "dateTime",
+  "isKey": true,
+  "sourceColumn": "FullDateAlternateKey",
+  "formatString": "Long Date",
+  "lineageTag": "229458ea-4975-464e-b77b-458b0c1d31db",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "FactInternetSalesReason",
+  "lineageTag": "b1c96e2e-f9a9-4b87-9949-61ee26f33a88",
+  "annotations": [
+    {
+      "name": "PBI_NavigationStepName",
+      "value": "Navigation"
+    },
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EnglishEducation",
+  "dataType": "string",
+  "sourceColumn": "EnglishEducation",
+  "lineageTag": "ec686aa8-860d-4221-934f-b93318e9919f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

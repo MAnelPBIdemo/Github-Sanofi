@@ -1,0 +1,13 @@
+{
+  "name": "SpanishMonthName",
+  "dataType": "string",
+  "sourceColumn": "SpanishMonthName",
+  "lineageTag": "36cb267c-efc4-4140-8c32-3fe4f675db47",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

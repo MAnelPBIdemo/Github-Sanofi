@@ -1,0 +1,10 @@
+{
+  "name": "DimCustomer",
+  "lineageTag": "d5c8de10-618a-4bca-9b80-382be70dc67f",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ArabicDescription",
+  "dataType": "string",
+  "sourceColumn": "ArabicDescription",
+  "lineageTag": "d11e7654-5988-431f-aa8b-1c53972f3461",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "BirthDate",
+  "dataType": "dateTime",
+  "sourceColumn": "BirthDate",
+  "formatString": "Long Date",
+  "lineageTag": "fc1caeb3-50a3-40f2-bb08-be7b81cce7a9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}
