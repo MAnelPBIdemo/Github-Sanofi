@@ -1,0 +1,6 @@
+{
+  "name": "Quantity",
+  "expression": "sum (FactInternetSales[OrderQuantity])",
+  "formatString": "0",
+  "lineageTag": "6d713bf5-bf13-407b-ac4f-19b682844bb3"
+}

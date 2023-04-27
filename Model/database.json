@@ -12,7 +12,7 @@
     "annotations": [
       {
         "name": "PBI_QueryOrder",
-        "value": "[\"FactInternetSales\",\"DimCurrency\",\"DimCustomer\",\"Date\",\"DimProduct\",\"DimSalesTerritory\",\"FactInternetSalesReason\"]"
+        "value": "[\"FactInternetSales\",\"Customer\",\"Date\",\"DimProduct\",\"SalesTerritory\",\"FactInternetSalesReason\"]"
       },
       {
         "name": "__PBI_TimeIntelligenceEnabled",
@@ -20,7 +20,7 @@
       },
       {
         "name": "PBIDesktopVersion",
-        "value": "2.115.1006.0 (23.03)"
+        "value": "2.116.622.0 (23.04)"
       },
       {
         "name": "TabularEditor_SerializeOptions",
