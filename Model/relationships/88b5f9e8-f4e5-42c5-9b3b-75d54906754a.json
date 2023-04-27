@@ -2,7 +2,7 @@
   "name": "88b5f9e8-f4e5-42c5-9b3b-75d54906754a",
   "fromTable": "FactInternetSales",
   "fromColumn": "CustomerKey",
-  "toTable": "DimCustomer",
+  "toTable": "Customer",
   "toColumn": "CustomerKey",
   "annotations": [
     {

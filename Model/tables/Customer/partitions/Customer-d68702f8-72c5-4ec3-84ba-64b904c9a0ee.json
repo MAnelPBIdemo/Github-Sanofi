@@ -1,5 +1,5 @@
 {
-  "name": "DimCurrency-cf532785-42a6-4b07-a9cb-be93be05e9df",
+  "name": "Customer-d68702f8-72c5-4ec3-84ba-64b904c9a0ee",
   "mode": "import",
   "source": {
     "type": "m",
@@ -7,9 +7,9 @@
       "let",
       "    Source = Sql.Databases(\"localhost\"),",
       "    AdventureWorksDW2016_EXT = Source{[Name=\"AdventureWorksDW2016_EXT\"]}[Data],",
-      "    dbo_DimCurrency = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"DimCurrency\"]}[Data]",
+      "    dbo_DimCustomer = AdventureWorksDW2016_EXT{[Schema=\"dbo\",Item=\"DimCustomer\"]}[Data]",
       "in",
-      "    dbo_DimCurrency"
+      "    dbo_DimCustomer"
     ]
   }
 }

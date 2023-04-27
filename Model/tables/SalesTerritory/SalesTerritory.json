@@ -1,6 +1,13 @@
 {
-  "name": "DimSalesTerritory",
+  "name": "SalesTerritory",
   "lineageTag": "c8874bfc-c236-46ea-96c8-d610ba8fd80e",
+
+  "changedProperties": [
+    {
+      "property": "Name"
+    }
+  ],
+
   "annotations": [
     {
       "name": "PBI_ResultType",
