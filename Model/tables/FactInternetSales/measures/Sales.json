@@ -1,6 +1,6 @@
 {
   "name": "Sales",
-  "expression": "SUMX( FactInternetSales, FactInternetSales[OrderQuantity] * FactInternetSales[UnitPrice])",
+  "expression": "SUMX( FactInternetSales, FactInternetSales[OrderQuantity] * FactInternetSales[UnitPrice]) + 0",
   "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
   "lineageTag": "9a8d6431-5dcc-4aa6-bb8e-a0d797ebed52",
   "annotations": [
