@@ -45,7 +45,8 @@
             }
           },
           "dataset": {
-            "deployEmbeddedReport": false
+            "deployEmbeddedReport": false,
+            "replaceParameters": true
           }
         },
         "parameters": {
