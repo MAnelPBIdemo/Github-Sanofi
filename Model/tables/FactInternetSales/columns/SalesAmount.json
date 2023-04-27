@@ -4,7 +4,7 @@
   "sourceColumn": "SalesAmount",
   "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
   "lineageTag": "37a92504-330e-4d99-80c7-3d0fefb2c629",
-  "summarizeBy": "none",
+  "summarizeBy": "sum",
   "annotations": [
     {
       "name": "SummarizationSetBy",
