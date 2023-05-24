@@ -1,0 +1,17 @@
+model Model
+	compatibilityLevel: 1567
+	culture: en-US
+	dataAccessOptions:
+		legacyRedirects
+		returnErrorValuesAsNull
+	defaultPowerBIDataSourceVersion: PowerBI_V3
+	sourceQueryCulture: en-US
+
+annotation PBI_QueryOrder = ["FactInternetSales","DimCurrency","DimCustomer","Date","DimProduct","DimSalesTerritory","FactInternetSalesReason","country","RangeStart","RangeEnd"]
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBIDesktopVersion = 2.115.1006.0 (23.03)
+
+annotation TabularEditor_SerializeOptions = {"IgnoreInferredObjects":true,"IgnoreInferredProperties":true,"IgnoreTimestamps":true,"SplitMultilineStrings":true,"PrefixFilenames":false,"LocalTranslations":false,"LocalPerspectives":false,"LocalRelationships":false,"Levels":["Data Sources","Shared Expressions","Perspectives","Relationships","Roles","Tables","Tables/Columns","Tables/Hierarchies","Tables/Measures","Tables/Partitions","Tables/Calculation Items","Translations"]}
+

@@ -4,8 +4,8 @@
       "Demo": {
         "mode": "Dataset",
         "source": {
-          "type": "Folder",
-          "path": "./Model"
+          "type": "File",
+          "path": "./Model.bim"
         },
         "authentication": {
           "type": "ServicePrincipal",
@@ -21,6 +21,8 @@
             "type": "Full", 
             "objects": {
             },
+            "ignoreRefreshPolicy": false,
+            "skipRefreshPolicyPartitions": true,
             "tracing": {
               "enabled": true,
               "logEvents": {
@@ -45,7 +47,12 @@
             }
           },
           "dataset": {
-            "deployEmbeddedReport": false
+            "replaceParameters": false,
+            "deployEmbeddedReport": false,
+            "applyRefreshPolicies": false,
+            "keepRefreshPolicyPartitions": true
+
+
           }
         },
         "parameters": {
