@@ -57,7 +57,7 @@
         },
         "parameters": {
           "[Version]": "1.1.0",
-          "Dataset_Name":"PBIX Sanofi with TE Folder",
+          "Dataset_Name":"PBIX with TE Folder",
           "Workspace":"Datasets",
           "[Environment]": "{{ENVIRONMENT}}",
           "[PBITOOLS_VERSION]": "{{PBITOOLS_VERSION}}"
